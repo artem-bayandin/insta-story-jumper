@@ -58,6 +58,9 @@ const setLevel = (value) => {
     if (newLevel !== level) {
         level = newLevel
         setSpeed(speedMultiplier - speedStep)
+        if (level > 0) {
+            sendPulseToPatch('levelUp')
+        }
     }
 }
 
