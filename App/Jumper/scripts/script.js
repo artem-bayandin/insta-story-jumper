@@ -35,7 +35,7 @@ const maxSpeed = 30
 
 let playing = false
 let speedMultiplier = 0
-let speedStep = 10
+let speedStep = 9
 let level = 0
 
 // set playing
@@ -85,8 +85,8 @@ const tapped = () => {
         setSpeed(initialSpeed)
         setLevel(0)
         showPlayer(true)
+        setPlaying(!playing)
     }
-    setPlaying(!playing)
 }
 subscribeToPatchPulse('tapped', tapped)
 
