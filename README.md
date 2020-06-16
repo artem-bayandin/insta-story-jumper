@@ -22,4 +22,4 @@ c. Easter egg - find it and you'll score a lot.
 
 ## [Time Logs]
 
-### Total time spent: 13.75h
+### Total time spent: 13.75h (June 16, 2020)
