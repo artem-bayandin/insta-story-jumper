@@ -3,6 +3,8 @@
 My second game for Instagram - Chrome Dino game.
 
 Try this effect in Instagram: https://www.instagram.com/ar/593375844928922/
+<br/>
+The same published for [hapebeast](https://hapebeast.com): https://www.instagram.com/ar/433350971622936/
 
 ## [Gameplay]
 
